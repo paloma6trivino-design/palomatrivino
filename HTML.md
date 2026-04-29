@@ -21,20 +21,14 @@
 
         </div>
                            <div style="background: lightgray; padding: 1rem">
-                            <img src="Image/Jazz.jpeg" alt=""
-                                     width="200">
-                            <video src="Image/IMG_0509.MOV"
-                            width="200" controls>
-                    
-                           </div>
-
+                            <img src="Image/Jazz.jpeg" alt=""; width="200">
+                            <video src="Image/IMG_0509.MOV"; width="200" controls>
+                
+                         </div>
+  <p>
           <footer>Paloma Triviño</footer>
+ 
 
-            </p>
-        </p>
-    </p>
-
-   </p>
     
 </body>
 
